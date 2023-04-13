@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Change via pull-request #2
+          Change via pull-request #3
         </a>
       </header>
     </div>
