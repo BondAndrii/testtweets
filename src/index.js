@@ -1,17 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import users from "./assets/users.json"
+import nophoto from "./assets/nopokemon.png"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+console.log(users);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+const ImgComponent = ({ pok: { user, avatar=nophoto } }) => {
+    console.log(user);
+    return (
+        <div>
+            <img width="475px" src={avatar} alt={user}/> 
+        </div>)
+}
+root.render(<ImgComponent pok={users[29]} />);
+// root.render(
+//   <React.StrictMode>
+//     <App />
+//   </React.StrictMode>
+// );
+
+
