@@ -1,0 +1,212 @@
+ [
+    {
+        "id": 1,
+        "user": "Bulbasaur",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+        "id":2,
+        "user": "Ivysaur",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+    },
+    {
+        "id":3,
+        "user": "Venusaur",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+    },
+    {
+        "id":4,
+        "user": "Charmander",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    },
+    {
+        "id":5,
+        "user": "Charmeleon",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+    },
+    {
+        "id":6,
+        "user": "Charizard",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+    },
+    {
+        "id":7,
+        "user": "Squirtle",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+        "id":8,
+        "user": "Wartortle",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png"
+    },
+    {
+        "id":9,
+        "user": "Blastoise",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+    },
+    {
+        "id":10,
+        "user": "Caterpie",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png"
+    },
+    {
+        "id":11,
+        "user": "Metapod",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png"
+    },
+    {
+        "id":12,
+        "user": "Butterfree",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png"
+    },
+    {
+        "id":13,
+        "user": "Weedle",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png"
+    },
+    {
+        "id":14,
+        "user": "Kakuna",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png"
+    },
+    {
+        "id":15,
+        "user": "Beedrill",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png"
+    },
+    {
+        "id":16,
+        "user": "Pidgey",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png"
+    },
+    {
+        "id":17,
+        "user": "Pidgeotto",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png"
+    },
+    {
+        "id":18,
+        "user": "Pidgeot",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png"
+    },
+    {
+        "id":19,
+        "user": "Rattata",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png"
+    },
+    {
+        "id":20,
+        "user": "Raticate",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png"
+    },
+    {
+        "id":21,
+        "user": "Spearow",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png"
+    },
+    {
+        "id":22,
+        "user": "Fearow",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png"
+    },
+    {
+        "id":23,
+        "user": "Ekans",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png"
+    },
+    {
+        "id":24,
+        "user": "Arbok",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png"
+    },
+    {
+        "id":25,
+        "user": "Pikachu",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+    },
+    {
+        "id":26,
+        "user": "Raichu",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png"
+    },
+    {
+        "id":27,
+        "user": "Sandshrew",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png"
+    },
+    {
+        "id":28,
+        "user": "Sandslash",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png"
+    },
+    {
+        "id":29,
+        "user": "Nidoran",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png"
+    },
+    {
+        "id":30,
+        "user": "Nidorina",
+        "tweets": 777,
+        "followers":100500,
+        "avatar": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png"
+    }
+]
