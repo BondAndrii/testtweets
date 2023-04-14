@@ -14,7 +14,7 @@ const ImgComponent = ({ pok: { user, avatar=nophoto } }) => {
             <img width="475px" src={avatar} alt={user}/> 
         </div>)
 }
-root.render(<ImgComponent pok={users[29]} />);
+root.render(<ImgComponent pok={users[13]} />);
 // root.render(
 //   <React.StrictMode>
 //     <App />
